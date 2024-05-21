@@ -1,1 +1,3 @@
-function hello()
+function main() {
+    console.log('------Triggered!-------')
+}
